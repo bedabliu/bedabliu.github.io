@@ -2,10 +2,10 @@
   "main": {
     "name":"Tiago Braccialli",
     "occupation":"Android Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I'm a mobile developer who loves to create solutions for people, helping them to make their lifes better. I love to learn new things and share the knowledge.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am a mobile developer that works with Java, Kotlin and React Native, but I have knowledge in backend, Linux, AWS and Docker. Already worked on an internal startup program in my company as the mobile developer for a solution that was acelerated in Silicon Valley.",
+    "contactmessage":"You can contact me if you like my resume and want to know more about me.",
     "email": "bedabliu@gmail.com",
     "phone": "+55 (61) 98284-1340",
     "address":{
@@ -45,19 +45,19 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Bellow is a description of some of my skills",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"UNIVEM",
+        "degree":"MBA in Public Administration",
+        "graduated":"July 2008",
+        "description":"I made my final work on the impact of technology in the marketing of the elections in Brazil"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Univem",
+        "degree":"Bachelor in Computer Science",
+        "graduated":"December 2005",
+        "description":"Made a lot of works during my course, some in artificial inteligence and other in cyber crimes. Worked a lot with Network and Java."
       }
     ],
     "work":[
@@ -76,42 +76,42 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Android",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"Kotlin",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"React Native",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"75%"
+      },
+      {
+        "name":"Scrum",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Scrum Master",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Banco Brasil",
+        "category":"Main app of the Bank",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://play.google.com/store/apps/details?id=br.com.bb.android&hl=en"
       },
       {
         "title":"Fury Fighting Gear",
@@ -142,8 +142,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Braccialli is a very skilled developer. I'm happy to have had the chance to work side by side with him creating Agrobot. He was responsible for our mobile development strategy and was always trying to find the best solution for our challenges and coding very fast. His ability to work on both front-end and back-end made him a valuable team member. Banco do Brasil is lucky to have a talent like him.",
+        "user":"Guilherme Fonseca - P.O. at Agrobot"
       },
       {
         "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
