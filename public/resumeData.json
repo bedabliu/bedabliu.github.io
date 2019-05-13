@@ -15,7 +15,7 @@
       "zip": "70.297-030"
     },
     "website": "http://bedabliu.github.io",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"Resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -48,7 +48,7 @@
     "skillmessage":"Bellow is a description of some of my skills",
     "education":[
       {
-        "school":"UNIVEM",
+        "school":"Univem",
         "degree":"MBA in Public Administration",
         "graduated":"July 2008",
         "description":"I made my final work on the impact of technology in the marketing of the elections in Brazil"
@@ -110,32 +110,14 @@
       {
         "title":"Banco Brasil",
         "category":"Main app of the Bank",
-        "image":"canadian-wanderlust.jpg",
+        "image":"bb1.png",
         "url":"https://play.google.com/store/apps/details?id=br.com.bb.android&hl=en"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Agrobot",
+        "category":"App with a dashboard and chatbot for farmers in Brazil",
+        "image":"agrobot1.png",
+        "url":"https://play.google.com/store/apps/details?id=br.com.bb.chico"
       }
     ]
   },
