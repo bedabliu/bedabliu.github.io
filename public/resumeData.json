@@ -15,7 +15,7 @@
       "zip": "70.297-030"
     },
     "website": "http://bedabliu.github.io",
-    "resumedownload":"Resume.pdf",
+    "resumedownload":"https://github.com/bedabliu/bedabliu.github.io/raw/master/files/Resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -62,16 +62,16 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Banco do Brasil",
+        "title":"Android Developer ",
+        "years":"September 2013 - Present",
+        "description":"Developed & maintained the main application of Banco do Brasil, which is the main interaction channel of our clients. We have more than 13 million active Android users. Worked in many inside projects, working with a lot of different technologies, because of my skills in learning new technologies and designing solutions for problems. Created the main channel for communication between client and their account managers."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"BB Digital Labbs (company from Banco do Brasil)",
+        "title":"Senior Android Developer",
+        "years":"April 2017 - September 2018",
+        "description":"Created a chat bot and dashboard app to help farmers in Brazil to take better decisions with more complex information delivered in a simple way, giving them insights about market and crop cares. Used Kotlin to develop the android App, react native for iOS app, nodeJs for the backend and DialogFlow for the chatbot intelligence. This project was a internal startup program of the bank where they selected one idea and 5 people to go to silicon valley and create the MVP and try to sell the product to the Board in 3 months. Responsible for the development of the mobile app, and helped to create the architecture of the backend and our servers on AWS. Project awarded a Prize in a Banking Contest in Brazil, as better artificial inteligence solution."
       }
     ],
     "skills":[
